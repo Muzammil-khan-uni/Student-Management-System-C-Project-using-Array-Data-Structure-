@@ -1,6 +1,6 @@
 # Student-Management-System-C-Project-using-Array-Data-Structure-
 
-![image alt]()
+![image alt](https://github.com/Muzammil-khan-uni/Student-Management-System-C-Project-using-Array-Data-Structure-/blob/main/Output.png?raw=true)
 
 
 The Student Management System is a console-based application developed in C++ that allows users (typically school/college administrators) to manage and maintain student records efficiently. The system provides functionalities such as adding, viewing, searching, updating, and deleting student data. It uses basic arrays and procedural programming techniques to handle operations, making it a great beginner-level project for understanding core C++ concepts like arrays, loops, functions, and conditionals.
