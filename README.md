@@ -1,4 +1,4 @@
-# Student-Management-System-C-Project-using-Array-Data-Structure-
+# Student-Management-System-C++-Project-using-Array-Data-Structure-
 
 ![image alt](https://github.com/Muzammil-khan-uni/Student-Management-System-C-Project-using-Array-Data-Structure-/blob/main/Output.png?raw=true)
 
